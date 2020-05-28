@@ -7,8 +7,7 @@ consumes:
   - file: /packages/@tinacms/fields/src/TextField.ts
     details: Shows text field interface and config options
 ---
-
-The `text` field represents a single line text input. It should be used for content values that are short strings: for example, a page title.
+The `text` field represents a single line text input. It should be used for content values that are short strings: for example, a page title. a
 
 ![tinacms-text-field](/img/fields/text.png)
 
@@ -32,10 +31,10 @@ const BlogPostForm = {
 
 ## Options
 
-- `name`: The path to some value in the data being edited.
-- `component`: The name of the React component that should be used to edit this field. Available field component types are [defined here](/docs/fields)
-- `label`: A human readable label for the field. This label displays in the sidebar and is optional. If no label is provided, the sidebar will default to the name.
-- `description`: An optional description that expands on the purpose of the field or prompts a specific action.
+* `name`: The path to some value in the data being edited.
+* `component`: The name of the React component that should be used to edit this field. Available field component types are [defined here](/docs/fields)
+* `label`: A human readable label for the field. This label displays in the sidebar and is optional. If no label is provided, the sidebar will default to the name.
+* `description`: An optional description that expands on the purpose of the field or prompts a specific action.
 
 ## Interface
 
