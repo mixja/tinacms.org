@@ -3,13 +3,12 @@ title: Styles
 prev: /docs/cms/alerts
 next: /docs/forms
 ---
+The `@tinacms/styles` package serves as the foundation for all Tina UI components. It contains a number of relateda aa elements:
 
-The `@tinacms/styles` package serves as the foundation for all Tina UI components. It contains a number of related elements:
-
-- Definitions for a range of CSS custom properties that define color, spacing, sizing & timing of Tina components.
-- `GlobalStyles`, which applies the custom properties alongside an import for [Inter](https://rsms.me/inter/).
-- `TinaReset`, a wrapper component that applies `TinaResetStyles`.
-- The `Button` & `IconButton` components which are used throughout Tina.
+* Definitions for a range of CSS custom properties that define color, spacing, sizing & timing of Tina components.
+* `GlobalStyles`, which applies the custom properties alongside an import for [Inter](https://rsms.me/inter/).
+* `TinaReset`, a wrapper component that applies `TinaResetStyles`.
+* The `Button` & `IconButton` components which are used throughout Tina.
 
 ## CSS Custom Properties
 
