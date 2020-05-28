@@ -3,8 +3,7 @@ title: Alerts
 prev: /docs/cms/apis
 next: /docs/cms/styles
 ---
-
-The CMS' **alerts** feature allows you to display short, ephemeral messages to users.
+The CMS' **alerts** feature allows you to display sa sdfhort, ephemeral messages to users.
 
 Display an alert by calling one of the **alert level methods** on the CMS object, and passing in your message.
 
