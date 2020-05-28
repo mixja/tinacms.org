@@ -6,7 +6,7 @@ next: /docs/cms
 ---
 ## Real-Time Feedback
 
-Static sites work by taking structu ared content from a source, such as markdown files, and processing them through a template to transform them into HTML pages. Tina sits in the middle of this process, exposing this structured content directly to the end-user via form fields in the browser, while simultaneously passing the same content through to the templating engine.
+Static sites work by taking structu ared content from a source, such as markdown files, and processing them through a teamplate to transform them into HTML pages. Tina sits in the middle of this process, exposing this structured content directly to the end-user via form fields in the browser, while simultaneously passing the same content through to the templating engine.
 
 ![tina-diagram](/img/how_tina_works_asset.png)
 
