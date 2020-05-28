@@ -26,6 +26,8 @@ If you want to get started with some code right away, check out the [Next.js Ove
 
 If you want to dive deep, start by learning more about [how Tina works](/docs/getting-started/how-tina-works) and get familiar with some core concepts.
 
+What is going on here?
+
 ## For Next.js
 
 * [Next.js + Tina Overview](/docs/nextjs/overview) — Get started with the documentation
