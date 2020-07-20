@@ -8,6 +8,7 @@ author: Nolan Phillips
 ### Deprecations
 
 * **tinacms:** The `markdown` and `html` fields are no longer provided by default. In order to use them in your site you must include them manually. [See last week's notice for more information.](https://tinacms.org/blog/2020-05-19-release-notes#markdown-and-html-fields-as-default-plugins)
+* **something else:** asdfasdfasdfas
 
 ### Features
 
